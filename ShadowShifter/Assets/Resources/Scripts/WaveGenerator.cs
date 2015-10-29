@@ -7,6 +7,16 @@ public class WaveGenerator : MonoBehaviour {
 	void Start () {
 
 		SpawnWave();
+		
+		/*GameObject lightGameObject = new GameObject("The Light");
+        Light lightComp = lightGameObject.AddComponent<Light>();
+        lightComp.color = Color.blue;
+		lightComp.intensity = 15;
+
+		
+        lightGameObject.transform.position = new Vector3 (0,0, 2);	
+        lightGameObject.transform.Rotate(90, 0, 0);  
+		*/
 	}
 
 	void SpawnWave() {
