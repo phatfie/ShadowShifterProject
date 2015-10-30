@@ -20,10 +20,17 @@ public class WaveGenerator : MonoBehaviour {
 	}
 
 	void SpawnWave() {
-		GameObject obj = Instantiate(Resources.Load("Prefabs/Cube")) as GameObject;
-		obj.transform.position = new Vector3(0, 0, 7);
-		Rigidbody [] children = obj.GetComponentsInChildren<Rigidbody>();
-	    children[0].constraints = RigidbodyConstraints.FreezePosition;
+		//GameObject obj = Instantiate(Resources.Load("Prefabs/Cube")) as GameObject;
+		GameObject cubexObj = Instantiate(Resources.Load("Prefabs/cubex")) as GameObject;
+
+		//obj.transform.position = new Vector3(0, 0, 7);
+		//Rigidbody [] children = obj.GetComponentsInChildren<Rigidbody>();
+	    //children[0].constraints = RigidbodyConstraints.FreezePosition;
+		
+		cubexObj.transform.position = new Vector3(0, 0, 7);
+		Rigidbody [] children2 = cubexObj.GetComponentsInChildren<Rigidbody>();
+	    children2[0].constraints = RigidbodyConstraints.FreezePosition;
+	
 		
 	}
 	
