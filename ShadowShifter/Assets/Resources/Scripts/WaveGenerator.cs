@@ -24,6 +24,12 @@ public class WaveGenerator : MonoBehaviour {
 		obj.transform.position = new Vector3(0, 0, 7);
 		Rigidbody [] children = obj.GetComponentsInChildren<Rigidbody>();
 	    children[0].constraints = RigidbodyConstraints.FreezePosition;
+		
+		GameObject obj = Instantiate(Resources.Load("Prefabs/cubex")) as GameObject;
+		obj.transform.position = new Vector3(0, 0, 7);
+		Rigidbody [] children = obj.GetComponentsInChildren<Rigidbody>();
+	    children[0].constraints = RigidbodyConstraints.FreezePosition;	
+		
 
 	}
 	
