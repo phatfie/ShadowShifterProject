@@ -158,7 +158,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: 77d658eb157ccd04c95f891118bd5bcf, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: 77d658eb157ccd04c95f891118bd5bcf, type: 3}
       propertyPath: m_LocalScale.x
@@ -368,7 +368,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
 --- !u!1 &1206895448
 GameObject:
   m_ObjectHideFlags: 0
@@ -555,12 +555,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1603701761}
-  m_LocalRotation: {x: -.0288875122, y: -.579051316, z: .0585823171, w: .812670469}
-  m_LocalPosition: {x: 5.46999979, y: .0500000007, z: 4.38000011}
+  m_LocalRotation: {x: -.0327793099, y: -.522824645, z: .0564968437, w: .84993422}
+  m_LocalPosition: {x: 8.46000004, y: -.659999967, z: 1.08000004}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1760288674}
-  m_RootOrder: 0
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
 --- !u!108 &1603701763
 Light:
   m_ObjectHideFlags: 0
@@ -572,7 +572,7 @@ Light:
   m_Type: 0
   m_Color: {r: .904411793, g: .904411793, b: .904411793, a: 1}
   m_Intensity: 2.75
-  m_Range: 14.9593639
+  m_Range: 18.9518147
   m_SpotAngle: 35.5999985
   m_CookieSize: 10
   m_Shadows:
@@ -657,7 +657,7 @@ Prefab:
         type: 2}
     - target: {fileID: 400000, guid: c9f2277f2b4414ff9abf05e783890171, type: 2}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c9f2277f2b4414ff9abf05e783890171, type: 2}
@@ -714,7 +714,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
 --- !u!1 &1760288669
 GameObject:
   m_ObjectHideFlags: 0
@@ -765,7 +765,7 @@ Camera:
     height: 1
   near clip plane: .300000012
   far clip plane: 1000
-  field of view: 75.0999985
+  field of view: 32.9000015
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -785,13 +785,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1760288669}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -.400000006, z: .879999995}
+  m_LocalRotation: {x: 0, y: .0504259318, z: 0, w: .998727858}
+  m_LocalPosition: {x: -3.32999992, y: -.400000006, z: -4.36000013}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1603701762}
+  m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
 --- !u!1 &1983267163
 GameObject:
   m_ObjectHideFlags: 0
@@ -912,4 +911,4 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
