@@ -6,4 +6,4 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/BlockGame1.unity
+    path: Assets/scenes/BlockGame1.unity

@@ -19,6 +19,8 @@ public class WaveGenerator : MonoBehaviour {
 		*/
 	}
 
+	
+	
 	void SpawnWave() {
 		//GameObject obj = Instantiate(Resources.Load("Prefabs/Cube")) as GameObject;
 		GameObject cubexObj = Instantiate(Resources.Load("Prefabs/cubex2")) as GameObject;
@@ -27,11 +29,15 @@ public class WaveGenerator : MonoBehaviour {
 		//Rigidbody [] children = obj.GetComponentsInChildren<Rigidbody>();
 	    //children[0].constraints = RigidbodyConstraints.FreezePosition;
 		
-		cubexObj.transform.position = new Vector3(-2, 0, 9);
+		cubexObj.transform.position = new Vector3(-2, 0, 6);
+		cubexObj.transform.localScale = new Vector3(0.03F, 0.03F, 0.03F);	
 		Rigidbody [] children2 = cubexObj.GetComponentsInChildren<Rigidbody>();
 	    children2[0].constraints = RigidbodyConstraints.FreezePosition;
-	
-		
+
 	}
+	
+	
+	
+	
 	
 }
