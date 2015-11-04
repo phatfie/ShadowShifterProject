@@ -29,7 +29,9 @@ public class WaveGenerator : MonoBehaviour {
 		//Rigidbody [] children = obj.GetComponentsInChildren<Rigidbody>();
 	    //children[0].constraints = RigidbodyConstraints.FreezePosition;
 		
-		cubexObj.transform.position = new Vector3(-3.25f, -0.52f, 8.22f);
+		//cubexObj.transform.position = new Vector3(-3.25f, -0.52f, 8.22f);
+		cubexObj.transform.position = new Vector3 (-4.5f, -0.52f, 10.302f);
+
 		cubexObj.transform.localScale = new Vector3(0.03F, 0.03F, 0.03F);	
 		Rigidbody [] children2 = cubexObj.GetComponentsInChildren<Rigidbody>();
 	    children2[0].constraints = RigidbodyConstraints.FreezePosition;

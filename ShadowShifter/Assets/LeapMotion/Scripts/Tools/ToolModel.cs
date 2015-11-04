@@ -61,7 +61,7 @@ public class ToolModel : MonoBehaviour {
   public void UpdateTool() {
     Vector3 target_position = GetToolTipPosition();
     if (Time.deltaTime != 0) {
-      rigidbody.velocity = (target_position - transform.position) *
+      GetComponent<Rigidbody>().velocity = (target_position - transform.position) *
                            (1 - filtering) / Time.deltaTime;
     }
 
@@ -78,6 +78,6 @@ public class ToolModel : MonoBehaviour {
       axis = -axis;
     }
     if (angle != 0)
-      rigidbody.angularVelocity = (1 - filtering) * angle * axis;
+      GetComponent<Rigidbody>().angularVelocity = (1 - filtering) * angle * axis;
   }
 }
