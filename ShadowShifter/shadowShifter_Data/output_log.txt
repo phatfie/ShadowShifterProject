@@ -14,7 +14,7 @@ Platform assembly: C:\Users\MVOLONT\Desktop\ShadowShifterProject\ShadowShifter\s
 Loading C:\Users\MVOLONT\Desktop\ShadowShifterProject\ShadowShifter\shadowShifter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\MVOLONT\Desktop\ShadowShifterProject\ShadowShifter\shadowShifter_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
 Loading C:\Users\MVOLONT\Desktop\ShadowShifterProject\ShadowShifter\shadowShifter_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
-- Completed reload, in  0.043 seconds
+- Completed reload, in  0.041 seconds
 desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found.
@@ -22,122 +22,122 @@ XInput1_3.dll not found.
 Platform assembly: C:\Users\MVOLONT\Desktop\ShadowShifterProject\ShadowShifter\shadowShifter_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\MVOLONT\Desktop\ShadowShifterProject\ShadowShifter\shadowShifter_Data\Managed\System.dll (this message is harmless)
 WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
-UnloadTime: 5.176642 ms
+UnloadTime: 5.672272 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 579.
-Total: 1.114713 ms (FindLiveObjects: 0.029278 ms CreateObjectMapping: 0.015997 ms MarkObjects: 0.192275 ms  DeleteObjects: 0.014186 ms)
+Total: 1.277106 ms (FindLiveObjects: 0.039541 ms CreateObjectMapping: 0.017507 ms MarkObjects: 0.241777 ms  DeleteObjects: 0.015394 ms)
 
-UnloadTime: 0.757027 ms
+UnloadTime: 0.696054 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 582.
-Total: 1.332344 ms (FindLiveObjects: 0.041352 ms CreateObjectMapping: 0.018412 ms MarkObjects: 0.249324 ms  DeleteObjects: 0.077272 ms)
+Total: 1.251147 ms (FindLiveObjects: 0.038334 ms CreateObjectMapping: 0.018110 ms MarkObjects: 0.245098 ms  DeleteObjects: 0.066707 ms)
 
-UnloadTime: 0.619687 ms
+UnloadTime: 0.747972 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 583.
-Total: 1.066418 ms (FindLiveObjects: 0.028373 ms CreateObjectMapping: 0.014186 ms MarkObjects: 0.194690 ms  DeleteObjects: 0.132208 ms)
+Total: 1.379733 ms (FindLiveObjects: 0.042258 ms CreateObjectMapping: 0.018110 ms MarkObjects: 0.253248 ms  DeleteObjects: 0.169033 ms)
 
 Level '' (-1) couldn't be loaded because it has not been added to the build settings.
 To add a level to the build settings use the menu File->Build Settings...
  
 (Filename:  Line: 275)
 
-UnloadTime: 0.791135 ms
+UnloadTime: 0.696054 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 582.
-Total: 0.968318 ms (FindLiveObjects: 0.028977 ms CreateObjectMapping: 0.012979 ms MarkObjects: 0.185936 ms  DeleteObjects: 0.114097 ms)
+Total: 1.323892 ms (FindLiveObjects: 0.042258 ms CreateObjectMapping: 0.018110 ms MarkObjects: 0.239966 ms  DeleteObjects: 0.143376 ms)
 
 Level '' (-1) couldn't be loaded because it has not been added to the build settings.
 To add a level to the build settings use the menu File->Build Settings...
  
 (Filename:  Line: 275)
 
-UnloadTime: 0.879274 ms
+UnloadTime: 0.664360 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 583.
-Total: 1.133730 ms (FindLiveObjects: 0.031995 ms CreateObjectMapping: 0.014186 ms MarkObjects: 0.226081 ms  DeleteObjects: 0.117115 ms)
+Total: 1.375809 ms (FindLiveObjects: 0.032599 ms CreateObjectMapping: 0.018412 ms MarkObjects: 0.253248 ms  DeleteObjects: 0.141565 ms)
 
-UnloadTime: 0.743142 ms
+UnloadTime: 0.884406 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 304 unused Assets to reduce memory usage. Loaded Objects now: 184.
-Total: 2.126498 ms (FindLiveObjects: 0.014790 ms CreateObjectMapping: 0.010866 ms MarkObjects: 0.129491 ms  DeleteObjects: 1.416860 ms)
+Total: 2.360428 ms (FindLiveObjects: 0.027467 ms CreateObjectMapping: 0.013281 ms MarkObjects: 0.154846 ms  DeleteObjects: 1.394826 ms)
 
 WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
-UnloadTime: 0.501062 ms
+UnloadTime: 0.364326 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 576.
-Total: 1.211304 ms (FindLiveObjects: 0.031391 ms CreateObjectMapping: 0.018110 ms MarkObjects: 0.237250 ms  DeleteObjects: 0.006942 ms)
+Total: 0.607915 ms (FindLiveObjects: 0.016903 ms CreateObjectMapping: 0.012375 ms MarkObjects: 0.141565 ms  DeleteObjects: 0.003923 ms)
 
-UnloadTime: 1.150633 ms
+UnloadTime: 0.839431 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 304 unused Assets to reduce memory usage. Loaded Objects now: 184.
-Total: 2.650803 ms (FindLiveObjects: 0.035617 ms CreateObjectMapping: 0.017507 ms MarkObjects: 0.223063 ms  DeleteObjects: 1.453383 ms)
+Total: 2.850926 ms (FindLiveObjects: 0.037730 ms CreateObjectMapping: 0.018110 ms MarkObjects: 0.216422 ms  DeleteObjects: 1.561746 ms)
 
 WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
-UnloadTime: 0.480537 ms
+UnloadTime: 0.556300 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 576.
-Total: 1.207380 ms (FindLiveObjects: 0.031391 ms CreateObjectMapping: 0.018412 ms MarkObjects: 0.257171 ms  DeleteObjects: 0.007546 ms)
+Total: 1.259599 ms (FindLiveObjects: 0.033202 ms CreateObjectMapping: 0.019921 ms MarkObjects: 0.257171 ms  DeleteObjects: 0.008149 ms)
 
-UnloadTime: 0.822829 ms
+UnloadTime: 0.592521 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 304 unused Assets to reduce memory usage. Loaded Objects now: 184.
-Total: 1.746173 ms (FindLiveObjects: 0.022940 ms CreateObjectMapping: 0.012073 ms MarkObjects: 0.146394 ms  DeleteObjects: 0.990353 ms)
+Total: 2.227918 ms (FindLiveObjects: 0.025354 ms CreateObjectMapping: 0.015092 ms MarkObjects: 0.164807 ms  DeleteObjects: 1.264127 ms)
 
 WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
-UnloadTime: 0.266227 ms
+UnloadTime: 0.552074 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 576.
-Total: 0.530341 ms (FindLiveObjects: 0.013281 ms CreateObjectMapping: 0.009357 ms MarkObjects: 0.132811 ms  DeleteObjects: 0.003320 ms)
+Total: 1.295518 ms (FindLiveObjects: 0.033806 ms CreateObjectMapping: 0.019318 ms MarkObjects: 0.270151 ms  DeleteObjects: 0.008149 ms)
 
-UnloadTime: 1.154859 ms
+UnloadTime: 0.698167 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 304 unused Assets to reduce memory usage. Loaded Objects now: 184.
-Total: 2.599489 ms (FindLiveObjects: 0.037428 ms CreateObjectMapping: 0.025656 ms MarkObjects: 0.230911 ms  DeleteObjects: 1.393618 ms)
+Total: 2.645370 ms (FindLiveObjects: 0.030184 ms CreateObjectMapping: 0.018412 ms MarkObjects: 0.193784 ms  DeleteObjects: 1.394524 ms)
 
 WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
-UnloadTime: 0.522493 ms
+UnloadTime: 0.487781 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 576.
-Total: 1.180817 ms (FindLiveObjects: 0.033202 ms CreateObjectMapping: 0.019016 ms MarkObjects: 0.241777 ms  DeleteObjects: 0.007244 ms)
+Total: 1.168442 ms (FindLiveObjects: 0.035014 ms CreateObjectMapping: 0.021129 ms MarkObjects: 0.238155 ms  DeleteObjects: 0.007244 ms)
 
-UnloadTime: 0.904931 ms
+UnloadTime: 0.660738 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 304 unused Assets to reduce memory usage. Loaded Objects now: 184.
-Total: 2.105067 ms (FindLiveObjects: 0.026864 ms CreateObjectMapping: 0.015092 ms MarkObjects: 0.164203 ms  DeleteObjects: 1.193797 ms)
+Total: 2.470299 ms (FindLiveObjects: 0.030788 ms CreateObjectMapping: 0.017808 ms MarkObjects: 0.188653 ms  DeleteObjects: 1.307894 ms)
 
 WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
-UnloadTime: 0.497742 ms
+UnloadTime: 0.490498 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 576.
-Total: 1.233338 ms (FindLiveObjects: 0.032599 ms CreateObjectMapping: 0.019016 ms MarkObjects: 0.254757 ms  DeleteObjects: 0.007546 ms)
+Total: 1.223981 ms (FindLiveObjects: 0.031693 ms CreateObjectMapping: 0.019318 ms MarkObjects: 0.234835 ms  DeleteObjects: 0.007546 ms)
 
-UnloadTime: 1.070040 ms
+UnloadTime: 0.717485 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 304 unused Assets to reduce memory usage. Loaded Objects now: 184.
-Total: 2.476940 ms (FindLiveObjects: 0.030486 ms CreateObjectMapping: 0.016601 ms MarkObjects: 0.162694 ms  DeleteObjects: 1.442215 ms)
+Total: 2.690043 ms (FindLiveObjects: 0.030184 ms CreateObjectMapping: 0.017808 ms MarkObjects: 0.192275 ms  DeleteObjects: 1.431349 ms)
 
-UnloadTime: 0.439486 ms
+UnloadTime: 0.459710 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 177.
-Total: 0.924249 ms (FindLiveObjects: 0.012073 ms CreateObjectMapping: 0.013281 ms MarkObjects: 0.171749 ms  DeleteObjects: 0.004225 ms)
+Total: 1.048006 ms (FindLiveObjects: 0.013281 ms CreateObjectMapping: 0.015092 ms MarkObjects: 0.189256 ms  DeleteObjects: 0.004829 ms)
 
 ResultText (UnityEngine.UI.Text)
  
@@ -147,651 +147,687 @@ that is a really bad time
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-more than 2 seconds: 15.33158
+more than 2 seconds: 34.28296
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+more than 2 seconds: 34.28296
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+more than 2 seconds: 34.28296
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+more than 2 seconds: 34.28296
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+more than 2 seconds: 34.28296
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+more than 2 seconds: 34.28296
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+more than 2 seconds: 34.28296
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+more than 2 seconds: 34.28296
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+more than 2 seconds: 34.28296
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+more than 2 seconds: 34.28296
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
