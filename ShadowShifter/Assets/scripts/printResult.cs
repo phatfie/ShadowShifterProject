@@ -7,7 +7,7 @@ public class printResult : MonoBehaviour {
 	public Text timeResult;
 
 
-	float printerTime = timeCounter.timeResult;
+	float printerTime = 0.0f;
 
 	void Start () {
 		if(resultText!=null)

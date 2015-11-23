@@ -18,8 +18,7 @@ public class timeCounter : MonoBehaviour {
 		//resultText.text = "Works";
 	}
 	
-	void Update()
-	{
+	void Update(){
 		// translate object for 10 seconds.
 		if(timeLimit > -1) {
 			// Decrease timeLimit.
@@ -42,7 +41,16 @@ public class timeCounter : MonoBehaviour {
 					}
 			}
 		}
+
+		if(Application.loadedLevelName =="menu"){
+			
+			timeLimit = 0.0f; // 10 seconds.
+			timeResult = 0.0f; // 10 seconds.
+			
+
+
 	} 
 
+  }
 
 }
