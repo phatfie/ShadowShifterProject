@@ -14,158 +14,18 @@ Platform assembly: C:\Users\MVOLONT\Desktop\ShadowShifterProject\ShadowShifter\s
 Loading C:\Users\MVOLONT\Desktop\ShadowShifterProject\ShadowShifter\shadowShifter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\MVOLONT\Desktop\ShadowShifterProject\ShadowShifter\shadowShifter_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
 Loading C:\Users\MVOLONT\Desktop\ShadowShifterProject\ShadowShifter\shadowShifter_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
-- Completed reload, in  0.041 seconds
+- Completed reload, in  0.042 seconds
 desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found.
 <RI> Input initialized.
 Platform assembly: C:\Users\MVOLONT\Desktop\ShadowShifterProject\ShadowShifter\shadowShifter_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\MVOLONT\Desktop\ShadowShifterProject\ShadowShifter\shadowShifter_Data\Managed\System.dll (this message is harmless)
-WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
-UnloadTime: 2.929483 ms
+UnloadTime: 5.650856 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 610.
-Total: 0.588613 ms (FindLiveObjects: 0.019016 ms CreateObjectMapping: 0.009055 ms MarkObjects: 0.143078 ms  DeleteObjects: 0.014488 ms)
-
-UnloadTime: 0.832812 ms
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 605.
-Total: 1.269593 ms (FindLiveObjects: 0.040448 ms CreateObjectMapping: 0.019016 ms MarkObjects: 0.281628 ms  DeleteObjects: 0.069426 ms)
-
-UnloadTime: 0.841566 ms
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 606.
-Total: 1.042600 ms (FindLiveObjects: 0.033505 ms CreateObjectMapping: 0.014488 ms MarkObjects: 0.221861 ms  DeleteObjects: 0.130098 ms)
-
-Level '' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 275)
-
-UnloadTime: 0.818323 ms
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 605.
-Total: 1.292836 ms (FindLiveObjects: 0.033505 ms CreateObjectMapping: 0.019016 ms MarkObjects: 0.272875 ms  DeleteObjects: 0.144889 ms)
-
-Level '' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 275)
-
-UnloadTime: 0.792364 ms
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 606.
-Total: 1.329360 ms (FindLiveObjects: 0.039240 ms CreateObjectMapping: 0.019016 ms MarkObjects: 0.290986 ms  DeleteObjects: 0.143078 ms)
-
-UnloadTime: 0.801721 ms
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 306 unused Assets to reduce memory usage. Loaded Objects now: 197.
-Total: 3.052035 ms (FindLiveObjects: 0.035920 ms CreateObjectMapping: 0.017507 ms MarkObjects: 0.237558 ms  DeleteObjects: 1.904692 ms)
-
-WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
-UnloadTime: 0.511640 ms
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 599.
-Total: 1.224919 ms (FindLiveObjects: 0.032600 ms CreateObjectMapping: 0.019016 ms MarkObjects: 0.300645 ms  DeleteObjects: 0.015998 ms)
-
-UnloadTime: 0.785723 ms
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 306 unused Assets to reduce memory usage. Loaded Objects now: 197.
-Total: 3.208697 ms (FindLiveObjects: 0.031996 ms CreateObjectMapping: 0.017507 ms MarkObjects: 0.250236 ms  DeleteObjects: 1.977740 ms)
-
-WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
-UnloadTime: 0.519187 ms
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 599.
-Total: 1.204695 ms (FindLiveObjects: 0.031996 ms CreateObjectMapping: 0.019318 ms MarkObjects: 0.308795 ms  DeleteObjects: 0.015394 ms)
-
-UnloadTime: 0.788741 ms
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 306 unused Assets to reduce memory usage. Loaded Objects now: 197.
-Total: 2.924955 ms (FindLiveObjects: 0.031392 ms CreateObjectMapping: 0.018111 ms MarkObjects: 0.246915 ms  DeleteObjects: 1.752558 ms)
-
-WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
-UnloadTime: 0.509527 ms
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 599.
-Total: 1.228239 ms (FindLiveObjects: 0.032901 ms CreateObjectMapping: 0.019620 ms MarkObjects: 0.300645 ms  DeleteObjects: 0.015394 ms)
-
-UnloadTime: 0.824662 ms
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 306 unused Assets to reduce memory usage. Loaded Objects now: 197.
-Total: 3.099124 ms (FindLiveObjects: 0.031694 ms CreateObjectMapping: 0.018111 ms MarkObjects: 0.255367 ms  DeleteObjects: 1.866658 ms)
-
-WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
-UnloadTime: 0.522507 ms
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 599.
-Total: 1.211336 ms (FindLiveObjects: 0.032298 ms CreateObjectMapping: 0.019922 ms MarkObjects: 0.313021 ms  DeleteObjects: 0.015998 ms)
-
-UnloadTime: 0.784515 ms
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 306 unused Assets to reduce memory usage. Loaded Objects now: 197.
-Total: 2.931898 ms (FindLiveObjects: 0.031392 ms CreateObjectMapping: 0.018714 ms MarkObjects: 0.259593 ms  DeleteObjects: 1.738673 ms)
-
-WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
-UnloadTime: 0.504396 ms
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 599.
-Total: 1.226730 ms (FindLiveObjects: 0.034109 ms CreateObjectMapping: 0.020827 ms MarkObjects: 0.313021 ms  DeleteObjects: 0.015998 ms)
-
-UnloadTime: 0.798702 ms
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 306 unused Assets to reduce memory usage. Loaded Objects now: 197.
-Total: 3.119348 ms (FindLiveObjects: 0.031392 ms CreateObjectMapping: 0.018714 ms MarkObjects: 0.264423 ms  DeleteObjects: 1.919483 ms)
-
-UnloadTime: 0.479040 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 190.
-Total: 1.074596 ms (FindLiveObjects: 0.013583 ms CreateObjectMapping: 0.015696 ms MarkObjects: 0.257782 ms  DeleteObjects: 0.004829 ms)
-
-that is a really good time
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-UnloadTime: 0.581972 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 217.
-Total: 1.100857 ms (FindLiveObjects: 0.014790 ms CreateObjectMapping: 0.015998 ms MarkObjects: 0.300645 ms  DeleteObjects: 0.005433 ms)
-
-UnloadTime: 0.857564 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 195.
-Total: 1.100857 ms (FindLiveObjects: 0.012979 ms CreateObjectMapping: 0.015998 ms MarkObjects: 0.281326 ms  DeleteObjects: 0.026261 ms)
-
-UnloadTime: 0.671924 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 217.
-Total: 1.115950 ms (FindLiveObjects: 0.014790 ms CreateObjectMapping: 0.016903 ms MarkObjects: 0.320266 ms  DeleteObjects: 0.005433 ms)
-
-UnloadTime: 0.744067 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 250.
-Total: 1.116252 ms (FindLiveObjects: 0.015696 ms CreateObjectMapping: 0.017205 ms MarkObjects: 0.296419 ms  DeleteObjects: 0.025657 ms)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 245.
+Total: 1.259301 ms (FindLiveObjects: 0.023543 ms CreateObjectMapping: 0.014186 ms MarkObjects: 0.242382 ms  DeleteObjects: 0.026864 ms)
 
 A key was pressed
  
@@ -179,11 +39,11 @@ The referenced script on this Behaviour is missing!
  
 (Filename:  Line: 1788)
 
-UnloadTime: 0.894088 ms
+UnloadTime: 0.604295 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 241.
-Total: 1.126817 ms (FindLiveObjects: 0.015394 ms CreateObjectMapping: 0.017507 ms MarkObjects: 0.299136 ms  DeleteObjects: 0.031996 ms)
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 246.
+Total: 0.672512 ms (FindLiveObjects: 0.011168 ms CreateObjectMapping: 0.009357 ms MarkObjects: 0.140358 ms  DeleteObjects: 0.020223 ms)
 
 wrong
  
@@ -197,11 +57,11 @@ The referenced script on this Behaviour is missing!
  
 (Filename:  Line: 1788)
 
-UnloadTime: 0.900427 ms
+UnloadTime: 0.851809 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 235.
-Total: 1.109913 ms (FindLiveObjects: 0.015092 ms CreateObjectMapping: 0.017205 ms MarkObjects: 0.297325 ms  DeleteObjects: 0.021129 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 248.
+Total: 0.515250 ms (FindLiveObjects: 0.010262 ms CreateObjectMapping: 0.006640 ms MarkObjects: 0.114097 ms  DeleteObjects: 0.014790 ms)
 
 wrong
  
@@ -215,17 +75,17 @@ The referenced script on this Behaviour is missing!
  
 (Filename:  Line: 1788)
 
-UnloadTime: 0.862092 ms
+UnloadTime: 0.854223 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 235.
-Total: 1.097537 ms (FindLiveObjects: 0.015696 ms CreateObjectMapping: 0.017507 ms MarkObjects: 0.296419 ms  DeleteObjects: 0.004829 ms)
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 248.
+Total: 1.057366 ms (FindLiveObjects: 0.018412 ms CreateObjectMapping: 0.014488 ms MarkObjects: 0.208575 ms  DeleteObjects: 0.031090 ms)
 
-C key was pressed
+wrong
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-40
+20
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -233,25 +93,25 @@ The referenced script on this Behaviour is missing!
  
 (Filename:  Line: 1788)
 
-UnloadTime: 0.866921 ms
+UnloadTime: 0.455787 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 235.
-Total: 1.132552 ms (FindLiveObjects: 0.015696 ms CreateObjectMapping: 0.017507 ms MarkObjects: 0.310908 ms  DeleteObjects: 0.007546 ms)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 246.
+Total: 0.561735 ms (FindLiveObjects: 0.007546 ms CreateObjectMapping: 0.006640 ms MarkObjects: 0.164204 ms  DeleteObjects: 0.044069 ms)
 
 wrong
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-40
+20
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-UnloadTime: 0.871751 ms
+UnloadTime: 0.862071 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 191.
-Total: 1.062220 ms (FindLiveObjects: 0.012677 ms CreateObjectMapping: 0.017205 ms MarkObjects: 0.273478 ms  DeleteObjects: 0.005131 ms)
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 1.012994 ms (FindLiveObjects: 0.012677 ms CreateObjectMapping: 0.013583 ms MarkObjects: 0.179598 ms  DeleteObjects: 0.032599 ms)
 
 FINAL LEVEL
  
@@ -689,79 +549,149 @@ FINAL LEVEL
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+UnloadTime: 0.511930 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 212.
+Total: 1.048310 ms (FindLiveObjects: 0.014488 ms CreateObjectMapping: 0.013884 ms MarkObjects: 0.227591 ms  DeleteObjects: 0.011470 ms)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
+UnloadTime: 0.600371 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 610.
+Total: 0.565659 ms (FindLiveObjects: 0.015997 ms CreateObjectMapping: 0.009055 ms MarkObjects: 0.134925 ms  DeleteObjects: 0.013583 ms)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+UnloadTime: 0.792949 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 605.
+Total: 1.287674 ms (FindLiveObjects: 0.040145 ms CreateObjectMapping: 0.019619 ms MarkObjects: 0.279811 ms  DeleteObjects: 0.071537 ms)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+UnloadTime: 0.820417 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 606.
+Total: 1.347439 ms (FindLiveObjects: 0.043163 ms CreateObjectMapping: 0.019921 ms MarkObjects: 0.284640 ms  DeleteObjects: 0.155148 ms)
 
-FINAL LEVEL
+Level '' (-1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: 275)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+UnloadTime: 0.763971 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 605.
+Total: 1.308803 ms (FindLiveObjects: 0.033504 ms CreateObjectMapping: 0.020525 ms MarkObjects: 0.282527 ms  DeleteObjects: 0.141565 ms)
 
-FINAL LEVEL
+Level '' (-1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: 275)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+UnloadTime: 0.763368 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 606.
+Total: 1.326008 ms (FindLiveObjects: 0.038938 ms CreateObjectMapping: 0.019921 ms MarkObjects: 0.293997 ms  DeleteObjects: 0.139150 ms)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+UnloadTime: 0.809248 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+Unloading 306 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 3.201679 ms (FindLiveObjects: 0.035919 ms CreateObjectMapping: 0.018412 ms MarkObjects: 0.243287 ms  DeleteObjects: 2.005464 ms)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
+UnloadTime: 0.485066 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-FINAL LEVEL
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 599.
+Total: 1.208590 ms (FindLiveObjects: 0.032901 ms CreateObjectMapping: 0.020827 ms MarkObjects: 0.295808 ms  DeleteObjects: 0.015394 ms)
 
-FINAL LEVEL
+UnloadTime: 0.806532 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 306 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 2.825277 ms (FindLiveObjects: 0.031391 ms CreateObjectMapping: 0.018714 ms MarkObjects: 0.252041 ms  DeleteObjects: 1.622421 ms)
+
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
+UnloadTime: 0.513137 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 599.
+Total: 1.201346 ms (FindLiveObjects: 0.031693 ms CreateObjectMapping: 0.020827 ms MarkObjects: 0.296714 ms  DeleteObjects: 0.015394 ms)
+
+UnloadTime: 0.755520 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 306 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 2.945713 ms (FindLiveObjects: 0.031391 ms CreateObjectMapping: 0.019016 ms MarkObjects: 0.255965 ms  DeleteObjects: 1.731689 ms)
+
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
+UnloadTime: 0.485670 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 599.
+Total: 1.210703 ms (FindLiveObjects: 0.032599 ms CreateObjectMapping: 0.020827 ms MarkObjects: 0.301845 ms  DeleteObjects: 0.015695 ms)
+
+UnloadTime: 0.784799 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 306 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 2.848519 ms (FindLiveObjects: 0.031391 ms CreateObjectMapping: 0.019016 ms MarkObjects: 0.259587 ms  DeleteObjects: 1.621817 ms)
+
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
+UnloadTime: 0.497442 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 599.
+Total: 1.231531 ms (FindLiveObjects: 0.032297 ms CreateObjectMapping: 0.020827 ms MarkObjects: 0.329313 ms  DeleteObjects: 0.015394 ms)
+
+UnloadTime: 0.800797 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 306 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 3.168174 ms (FindLiveObjects: 0.031391 ms CreateObjectMapping: 0.019318 ms MarkObjects: 0.264718 ms  DeleteObjects: 1.949924 ms)
+
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
+UnloadTime: 0.492310 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 599.
+Total: 1.219457 ms (FindLiveObjects: 0.032599 ms CreateObjectMapping: 0.021732 ms MarkObjects: 0.310599 ms  DeleteObjects: 0.015394 ms)
+
+UnloadTime: 0.784497 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 306 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 2.703935 ms (FindLiveObjects: 0.031693 ms CreateObjectMapping: 0.019619 ms MarkObjects: 0.265926 ms  DeleteObjects: 1.511040 ms)
+
+UnloadTime: 0.469068 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 1.105661 ms (FindLiveObjects: 0.013583 ms CreateObjectMapping: 0.015997 ms MarkObjects: 0.260794 ms  DeleteObjects: 0.004527 ms)
+
+that is a really good time
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.576525 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 217.
+Total: 1.128299 ms (FindLiveObjects: 0.014488 ms CreateObjectMapping: 0.017808 ms MarkObjects: 0.309693 ms  DeleteObjects: 0.005131 ms)
+
+UnloadTime: 0.724430 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 1.117433 ms (FindLiveObjects: 0.012979 ms CreateObjectMapping: 0.016903 ms MarkObjects: 0.288262 ms  DeleteObjects: 0.024751 ms)
+
+UnloadTime: 0.662551 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 217.
+Total: 1.131620 ms (FindLiveObjects: 0.014488 ms CreateObjectMapping: 0.017507 ms MarkObjects: 0.313919 ms  DeleteObjects: 0.004829 ms)
 
