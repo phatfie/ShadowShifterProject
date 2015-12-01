@@ -19,6 +19,22 @@ ModelImporter:
     100026: Plane_003
     100028: Plane_004
     100030: Plane_005
+    100032: Door
+    100034: Door_Frrame
+    100036: Door_Knob
+    100038: Flashlight_3
+    100040: Light_Fixture
+    100042: Molding
+    100044: Room
+    100046: Sheet_1
+    100048: Sheet_2
+    100050: Table_1
+    100052: Table_2
+    100054: Tack_1
+    100056: Tack_2
+    100058: Tack_3
+    100060: Tack_4
+    100062: Wood_Structure
     400000: Circle
     400002: Plane
     400004: Plane_001
@@ -35,6 +51,22 @@ ModelImporter:
     400026: Plane_003
     400028: Plane_004
     400030: Plane_005
+    400032: Door
+    400034: Door_Frrame
+    400036: Door_Knob
+    400038: Flashlight_3
+    400040: Light_Fixture
+    400042: Molding
+    400044: Room
+    400046: Sheet_1
+    400048: Sheet_2
+    400050: Table_1
+    400052: Table_2
+    400054: Tack_1
+    400056: Tack_2
+    400058: Tack_3
+    400060: Tack_4
+    400062: Wood_Structure
     2300000: Circle
     2300002: Plane
     2300004: Plane_001
@@ -50,6 +82,22 @@ ModelImporter:
     2300024: Plane_003
     2300026: Plane_004
     2300028: Plane_005
+    2300030: Door
+    2300032: Door_Frrame
+    2300034: Door_Knob
+    2300036: Flashlight_3
+    2300038: Light_Fixture
+    2300040: Molding
+    2300042: Room
+    2300044: Sheet_1
+    2300046: Sheet_2
+    2300048: Table_1
+    2300050: Table_2
+    2300052: Tack_1
+    2300054: Tack_2
+    2300056: Tack_3
+    2300058: Tack_4
+    2300060: Wood_Structure
     3300000: Circle
     3300002: Plane
     3300004: Plane_001
@@ -65,6 +113,22 @@ ModelImporter:
     3300024: Plane_003
     3300026: Plane_004
     3300028: Plane_005
+    3300030: Door
+    3300032: Door_Frrame
+    3300034: Door_Knob
+    3300036: Flashlight_3
+    3300038: Light_Fixture
+    3300040: Molding
+    3300042: Room
+    3300044: Sheet_1
+    3300046: Sheet_2
+    3300048: Table_1
+    3300050: Table_2
+    3300052: Tack_1
+    3300054: Tack_2
+    3300056: Tack_3
+    3300058: Tack_4
+    3300060: Wood_Structure
     4300000: Circle
     4300002: Plane
     4300004: Plane_001
@@ -80,6 +144,22 @@ ModelImporter:
     4300024: Circle_002
     4300026: Circle_001
     4300028: Plane_002
+    4300030: Light_Fixture
+    4300032: Table_2
+    4300034: Flashlight_3
+    4300036: Wood_Structure
+    4300038: Table_1
+    4300040: Door_Knob
+    4300042: Door
+    4300044: Door_Frrame
+    4300046: Molding
+    4300048: Tack_4
+    4300050: Tack_3
+    4300052: Tack_2
+    4300054: Tack_1
+    4300056: Room
+    4300058: Sheet_2
+    4300060: Sheet_1
     7400000: Default Take
     9500000: //RootNode
   materials:
